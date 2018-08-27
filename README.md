@@ -1,10 +1,10 @@
 # Zinc
-Platformer game using OverLap2D
-Currently inactive
+Platformer game using OverLap2D<br>
+Currently inactive<br>
 
 
 
-BUGS:
-Collision detection fails completely when window is moved
-Collision detection slightly ghosting through some blocks.
+BUGS:<br>
+Collision detection fails completely when window is moved<br>
+Collision detection slightly ghosting through some blocks.<br>
 rayCastRight is doing halfway through sprite. Need to make it draw from right side possibly.
